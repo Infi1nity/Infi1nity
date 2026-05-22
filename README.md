@@ -27,7 +27,3 @@ My goal: **automate everything worth automating.**
 - PostgreSQL, Docker
 - HTML/CSS/JS, React, Next.js
 - Opencode, Codex, Claude Code, Cline, Cursor, N8N
-
----
-
-*"AI won't replace the world — it'll upgrade it."*

@@ -23,7 +23,7 @@ My goal: **automate everything worth automating.**
 
 
 ### Stack & Tools
-- Python
+- Python, FastApi
 - PostgreSQL
 - HTML/CSS/JS
 - Opencode, Codex, Claude Code, Cline

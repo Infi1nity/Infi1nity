@@ -23,17 +23,10 @@ My goal: **automate everything worth automating.**
 
 
 ### Stack & Tools
-
-![Python](https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python)
-![OpenCode](https://img.shields.io/badge/-OpenCode-111827?style=flat-square&logo=openai)
-![AI/ML](https://img.shields.io/badge/-AI%20%2F%20ML-111827?style=flat-square&logo=anthropic)
-
-
-### Currently
-
-- 🔬 testing & comparing LLMs
-- 🚧 working on my next AI project
-- 📖 learning every day
+- Python
+- PostgreSQL
+- HTML/CSS/JS
+- Opencode, Codex, Claude Code, Cline
 
 ---
 

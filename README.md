@@ -23,10 +23,10 @@ My goal: **automate everything worth automating.**
 
 
 ### Stack & Tools
-- Python, FastApi
-- PostgreSQL
-- HTML/CSS/JS
-- Opencode, Codex, Claude Code, Cline
+- Python, FastApi, Node.js
+- PostgreSQL, Docker
+- HTML/CSS/JS, React, Next.js
+- Opencode, Codex, Claude Code, Cline, Cursor, N8N
 
 ---
 
